@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/zebin/zync/Web3/demo-nft/contracts/MyNFT.sol": {
-      "lastModificationDate": 1661316094444,
-      "contentHash": "3212e7d6e7718a789f6b2969086c2178",
+      "lastModificationDate": 1661402027226,
+      "contentHash": "e05d7fdc19856129f8d84ad7836cd811",
       "sourceName": "contracts/MyNFT.sol",
       "solcConfig": {
         "version": "0.8.1",
@@ -35,7 +35,7 @@
         "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol"
       ],
       "versionPragmas": [
-        "^0.8.0"
+        "^0.8.1"
       ],
       "artifacts": [
         "MyNFT"
